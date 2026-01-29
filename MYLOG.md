@@ -9,4 +9,4 @@
 - Rectify Execution Policy for dependencies installing with npm
 - Change server port to 3000 and remove babel from config.
 - Create a personal log file to ascertain progress.
-- Set the landing page to be [prpject specific]
+- Set the landing page to be project specific, remove existing CSS and install Tailwind
